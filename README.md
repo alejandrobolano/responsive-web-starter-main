@@ -5,4 +5,4 @@
 This project is the first challenge of [devChallenges](https://devchallenges.io/) where you can practice with real-life coding projects.
 In this project, I have used HTML + CSS.
 
-You can see the result [here in the website](https://alejandrobolano.github.io/responsive-web-starter-main/)
+You can see the result [here on the website](https://alejandrobolano.github.io/responsive-web-starter-main/)
